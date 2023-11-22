@@ -1,0 +1,19 @@
+/* BookDetails.css */
+
+div {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
